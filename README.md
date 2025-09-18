@@ -1,7 +1,7 @@
 Utilizing 2D Attention-Based Models for Memory Efficient 3D Reconstruction
 ==========================================================================
 
-This repository contains the official implementation of the paper **"Utilizing 2D Attention-Based Models for Memory Efficient 3D Reconstruction" (ICCV 2025 submission)**.
+This repository contains the official implementation of my MS Thesis **"Utilizing 2D Attention-Based Models for Memory Efficient 3D Reconstruction"**.
 
 📌 Overview
 -----------
